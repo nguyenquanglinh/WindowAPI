@@ -1,0 +1,8 @@
+﻿  WindowAPI.cpp
+c:\users\thang\onedrive\documents\visual studio 2015\projects\windowapi\windowapi\windowapi.cpp(195): warning C4800: 'UINT': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\thang\onedrive\documents\visual studio 2015\projects\windowapi\windowapi\windowapi.cpp(206): warning C4002: too many actual parameters for macro 'CreateWindowW'
+c:\users\thang\onedrive\documents\visual studio 2015\projects\windowapi\windowapi\windowapi.cpp(209): warning C4002: too many actual parameters for macro 'CreateWindowW'
+c:\users\thang\onedrive\documents\visual studio 2015\projects\windowapi\windowapi\windowapi.cpp(213): warning C4002: too many actual parameters for macro 'CreateWindowW'
+c:\users\thang\onedrive\documents\visual studio 2015\projects\windowapi\windowapi\windowapi.cpp(218): warning C4002: too many actual parameters for macro 'CreateWindowW'
+  WindowAPI.vcxproj -> C:\Users\thang\OneDrive\Documents\Visual Studio 2015\Projects\WindowAPI\Debug\WindowAPI.exe
+  WindowAPI.vcxproj -> C:\Users\thang\OneDrive\Documents\Visual Studio 2015\Projects\WindowAPI\Debug\WindowAPI.pdb (Full PDB)
